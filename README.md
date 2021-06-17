@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-<p><img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/840285974902341633/840936256682066000/dare-480.gif" width="400" height="200" /></p>
+<p><img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/854921062519930933/855129298632573019/ezgif.com-gif-maker_3.gif" width="400" height="200" /></p>
   </a><br>
 
 
@@ -12,7 +12,7 @@
 
 ---
 
-### szg0d  <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" height="20px" width="20px"/>
+### PandaLofy  <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" height="20px" width="20px"/>
 
 - **👑 |Bem vindo ao meu perfil mero mortal! Se diverta-se com os meus programas!**
 
@@ -35,12 +35,12 @@
 > 💬 | Você poderá me chamar no discord também.
 
 ```diff
-- 📋 Discord: PandaLofy Ƭ Ð ᒪ#6925
+- 📋 Discord: PandaLofy#6666
 + 🌎 Não tenha medo de me chamar, estarei disposto a conversar com você.
 @@App: Discord@@
 ```
 
-<img src="https://cdn.discordapp.com/avatars/833056356957028432/a_4dd7bfe70154fb7f8cf7d3f1bd4d578d.gif" alt="Avatar" style="border-radius: 50%%;">
+<img src="https://media.discordapp.net/attachments/854921062519930933/855129298632573019/ezgif.com-gif-maker_3.gif" alt="Avatar" style="border-radius: 50%%;">
 
 
 
