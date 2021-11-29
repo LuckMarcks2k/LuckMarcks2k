@@ -1,6 +1,5 @@
 <p align="center">
   <a>
-<p><img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/854921062519930933/855131187164479489/caef4b4b74c7513cdc093500d0957b91.gif" width="400" height="200" /></p>
   </a><br>
 
 
